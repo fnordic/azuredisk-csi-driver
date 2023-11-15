@@ -16,6 +16,10 @@ limitations under the License.
 
 package optimization
 
+/*
+test test
+*/
+
 var (
 	DiskSkuMap = map[string]map[string]DiskSkuInfo{
 		"premium_lrs": {
